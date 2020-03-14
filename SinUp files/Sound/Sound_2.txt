@@ -1,0 +1,8 @@
+
+Opinion1:50
+Opinion2:30
+Opinion3:0
+
+Opinion1:10
+Opinion2:10
+Opinion3:-30
